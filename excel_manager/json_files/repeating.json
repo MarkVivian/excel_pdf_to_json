@@ -1,0 +1,172 @@
+[
+    {
+        "employee": {
+            "M+5": "EMPLOYEE",
+            "first name": "AMBROSE",
+            "middle name": "MANYARE",
+            "surname": "",
+            "payroll number": 40450070,
+            "date of birth": "2000.01.01"
+        },
+        "employee info": []
+    },
+    {
+        "employee": {
+            "M+5": "EMPLOYEE",
+            "first name": "LILIAN",
+            "middle name": "NAMYAK",
+            "surname": "PIRORIS",
+            "payroll number": 27227135,
+            "date of birth": "1989.12.28"
+        },
+        "employee info": [
+            {
+                "M+5": "SPOUSE",
+                "first name": "KENETH",
+                "middle name": "MUTUMA",
+                "surname": "KUBAI",
+                "gender": "M",
+                "date of birth": "1993.07.07",
+                "relationship": "SPOUSE"
+            },
+            {
+                "M+5": "CHILDONE",
+                "first name": "WHITNEY",
+                "middle name": "OLIA",
+                "surname": "NAMYAK",
+                "gender": "F",
+                "date of birth": "2011.05.17",
+                "relationship": "DAUGHTER"
+            },
+            {
+                "M+5": "CHILDTWO",
+                "first name": "DYLAN",
+                "middle name": "MESHUKI",
+                "surname": "MUTETHIA",
+                "gender": "M",
+                "date of birth": "2022.01.21",
+                "relationship": "SON"
+            }
+        ]
+    },
+    {
+        "employee": {
+            "M+5": "EMPLOYEE",
+            "first name": "PENINAH",
+            "middle name": "RISPAS",
+            "surname": "JOHN",
+            "payroll number": 32820684,
+            "date of birth": "1999.10.31"
+        },
+        "employee info": [
+            {
+                "M+5": "SPOUSE",
+                "first name": "JOSEPH",
+                "middle name": "LOSOPIAN",
+                "surname": "MOILE",
+                "gender": "M",
+                "date of birth": "1995.02.01",
+                "relationship": "SPOUSE"
+            },
+            {
+                "M+5": "CHILDONE",
+                "first name": "ALFRED",
+                "middle name": "BULAKI",
+                "surname": "MOILE",
+                "gender": "M",
+                "date of birth": "2019.11.05",
+                "relationship": "SON"
+            },
+            {
+                "M+5": "CHILDTWO",
+                "first name": "TALIA",
+                "middle name": "DOREEN",
+                "surname": "MOILE",
+                "gender": "F",
+                "date of birth": "2022.07.27",
+                "relationship": "DAUGHTER"
+            }
+        ]
+    },
+    {
+        "employee": {
+            "M+5": "EMPLOYEE",
+            "first name": "ROSEMINA",
+            "middle name": "SENTEIYAN",
+            "surname": "LEGEI",
+            "payroll number": 35762739,
+            "date of birth": "1998.09.05"
+        },
+        "employee info": [
+            {
+                "M+5": "CHILDONE",
+                "first name": "NATASHA",
+                "middle name": "QUEEN",
+                "surname": "PRINCES",
+                "gender": "F",
+                "date of birth": "2021.07.17",
+                "relationship": "DAUGHTER"
+            }
+        ]
+    },
+    {
+        "employee": {
+            "M+5": "EMPLOYEE",
+            "first name": "STELLA",
+            "middle name": "NANOK",
+            "surname": "EBENYO",
+            "payroll number": 34992627,
+            "date of birth": "1996.08.13"
+        },
+        "employee info": [
+            {
+                "M+5": "SPOUSE",
+                "first name": "PETER",
+                "middle name": "DONGOL",
+                "surname": "KASANA",
+                "gender": "M",
+                "date of birth": "1993.04.16",
+                "relationship": "SPOUSE"
+            },
+            {
+                "M+5": "CHILDONE",
+                "first name": "ERICK",
+                "middle name": "SILANKE",
+                "surname": "KASANA",
+                "gender": "M",
+                "date of birth": "2021.06.29",
+                "relationship": "SON"
+            }
+        ]
+    },
+    {
+        "employee": {
+            "M+5": "EMPLOYEE",
+            "first name": "TIMOTHY",
+            "middle name": "SIRERE",
+            "surname": "RONKAI",
+            "payroll number": 38586057,
+            "date of birth": "2000.09.02"
+        },
+        "employee info": [
+            {
+                "M+5": "SPOUSE",
+                "first name": "BRENDA",
+                "middle name": "YIANTET",
+                "surname": "RONKAI",
+                "gender": "F",
+                "date of birth": "2023.01.03",
+                "relationship": "SPOUSE"
+            },
+            {
+                "M+5": "CHILDONE",
+                "first name": "SAMUEL",
+                "middle name": "LEMAYIAN",
+                "surname": "RONKAI",
+                "gender": "F",
+                "date of birth": "2009.07.31",
+                "relationship": "SON"
+            }
+        ]
+    }
+]
